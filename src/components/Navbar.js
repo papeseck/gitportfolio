@@ -12,6 +12,7 @@ const Navbar = () => {
 
   return (
     <div className="header">
+        <h1>pape</h1>
         <Link to='/'> 
         <img src={pape} style={{ width:"100px" , height:"90px" ,borderRadius:"15px"}}/>
         </Link>
